@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: About Me
+  chapters:
+  - file: cv.md
+- caption: Modeling Examples
+  chapters:
+  - file: Diatoma.md
+  - file: Streptomyces.md
+- caption: Analysis Examples
+  chapters:
+  - file: ML_FinalProject_KAdolphs.ipynb
+  - file: DataViz_FinalProject_KAdolphs.ipynb

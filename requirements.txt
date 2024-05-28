@@ -1,0 +1,8 @@
+jupyter-book
+matplotlib
+numpy
+altair
+graphviz
+pandas
+scikit-learn
+scipy
