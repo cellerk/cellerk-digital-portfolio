@@ -27,6 +27,12 @@ name: Streptomyces_tomography
 Cryo electron tomograms show that complicated internal structures exist in hyphae. On the left a tomographic slice through a Streptomyces hyphae is shown, and on the right the internal membranes in the hyphae are surface rendered. Blue is the cell wall, yellow is the membrane, red denotes a flat membrane structure, and small vesicles are shown in purple.
 
 Finally, combining the information gained in the lab and at the microscope, I created a computational model of Streptomyces pellet development. 
+
+<video width="560" height="315" controls autoplay>
+  <source src="_static/strep_pellet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Such a model may lead to new insights and a better understanding of the relationship between morphology—dictated by microbial growth, branching, fragmentation and adhesion—and product formation. To this end, by combining different modeling methods, I created a structured, 3D morphological modeling framework for rational strain design of Streptomyces species. 2D projections of a pellet simulated using my model are shown below. 
 
 ```{figure} ./img/Streptomyces_pellet.jpg  
